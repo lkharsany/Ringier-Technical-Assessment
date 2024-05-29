@@ -1,2 +1,3 @@
-# Ringier-Technical-Assessment
-Ringier Technical Assessment Answers
+To whoever reads this,
+
+Thank you for taking the time to look through my code.
